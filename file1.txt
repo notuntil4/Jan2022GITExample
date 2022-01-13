@@ -1,3 +1,4 @@
 Typed some text in here
 This was changed in the master branch
+Changed in the green branch
 Even more text
