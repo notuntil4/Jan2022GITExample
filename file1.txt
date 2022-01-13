@@ -1,4 +1,4 @@
-Typed some text in here
-This was changed in the master branch
-Changed in the green branch
-Even more text
+1. Typed some text in here
+2. This was changed in the master branch
+3. Changed in the green branch
+4. Even more text
